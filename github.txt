@@ -1,0 +1,17 @@
+git init
+git status
+
+git config user.name"saniya khatoon"
+git config user.email"khatoonsaniya7869@gmail.com
+
+git remote add origin https://github.com/saniya7861/day11b.git
+
+git add .
+
+git status
+
+git commit -m "first file added"
+
+git branch -M main
+
+git push -u origin main
