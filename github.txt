@@ -15,3 +15,13 @@ git commit -m "first file added"
 git branch -M main
 
 git push -u origin main
+git log
+git log --oneline
+git show commit_id
+git revert commit_id
+git rm filename
+git revert --continue
+
+commit pe click karo
+
+git push
